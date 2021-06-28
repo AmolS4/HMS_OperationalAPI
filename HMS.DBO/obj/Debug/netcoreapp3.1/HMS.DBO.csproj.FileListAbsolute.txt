@@ -1,0 +1,12 @@
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\bin\Debug\netcoreapp3.1\HMS.DBO.deps.json
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\bin\Debug\netcoreapp3.1\HMS.DBO.runtimeconfig.json
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\bin\Debug\netcoreapp3.1\HMS.DBO.runtimeconfig.dev.json
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\bin\Debug\netcoreapp3.1\HMS.DBO.dll
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\bin\Debug\netcoreapp3.1\HMS.DBO.pdb
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.csprojAssemblyReference.cache
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.AssemblyInfoInputs.cache
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.AssemblyInfo.cs
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.csproj.CoreCompileInputs.cache
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.dll
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.pdb
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.DBO\obj\Debug\netcoreapp3.1\HMS.DBO.genruntimeconfig.cache

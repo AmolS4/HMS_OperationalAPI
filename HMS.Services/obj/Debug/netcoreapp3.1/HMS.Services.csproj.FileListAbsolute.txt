@@ -1,0 +1,12 @@
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\bin\Debug\netcoreapp3.1\HMS.Services.deps.json
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\bin\Debug\netcoreapp3.1\HMS.Services.dll
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\bin\Debug\netcoreapp3.1\HMS.Services.pdb
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\bin\Debug\netcoreapp3.1\HMS.DBO.dll
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\bin\Debug\netcoreapp3.1\HMS.DBO.pdb
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.csprojAssemblyReference.cache
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.AssemblyInfoInputs.cache
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.AssemblyInfo.cs
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.csproj.CoreCompileInputs.cache
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.csproj.CopyComplete
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.dll
+C:\FINAL_PROJECT\CTBackEndAPI\HMSSolution\HMS.API\HMS.Services\obj\Debug\netcoreapp3.1\HMS.Services.pdb
